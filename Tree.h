@@ -4,7 +4,9 @@
 class Tree {
   public:
     Tree();
-    
+
+    int size();
+
   private:
     int size;
 
