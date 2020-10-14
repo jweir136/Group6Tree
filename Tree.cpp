@@ -8,3 +8,7 @@ Tree::Tree() {
   this->root = NULL;
   this->size = 0;
 }
+
+int Tree::size() {
+  return this->size;
+}
