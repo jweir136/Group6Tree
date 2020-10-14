@@ -2,6 +2,9 @@
 #define TREE_H
 
 class Tree {
+  public:
+    Tree();
+    
   private:
     int size;
 
